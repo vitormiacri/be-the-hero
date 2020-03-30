@@ -82,7 +82,7 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) for details
 
 ---
 
-Made with ♥ by Vitor Morelli :wave: [Get in touch!](https://www.linkedin.com/in/vitor-morelli-miacri-5830b431/)
+Made with ♥ by Vitor Morelli :wave: [LinkedIn](https://www.linkedin.com/in/vitor-morelli-miacri-5830b431/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
