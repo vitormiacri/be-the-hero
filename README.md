@@ -11,18 +11,8 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vitormiacri/be-the-hero">
   </a>
 </p>
-<p align="center">
-  <a href="https://insomnia.rest/run/?label=Be%20The%20Hero&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fvitormiacri%2Fbe-the-hero%2Fmaster%2Fbackend%2FInsomnia_requests.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-<p align="center">
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
 
-## 💻 Projecto
+## Projeto
 
 Este projeto foi desenvolvido durante a semana Omnistack da @Rocketseat.
 O Be The Hero visa conectar pessoas interessadas em ajudar ONGs.
@@ -42,11 +32,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Como usar
 
-Para clonar e executar este projeto, você precisa ter instalado o [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
-
-No terminal execute:
+Para clonar e executar este projeto, você precisa ter instalado em seu computador o [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn].
 
 ### Executar a API
+
+No terminal execute:
 
 ```bash
 # Clone este repositório
@@ -64,6 +54,10 @@ $ yarn knex migrate:latest
 # Execute a API
 $ yarn dev
 ```
+
+Para visualizar os endpoints da API utilize o Insomnia clicando no botão abaixo:
+
+[![Executar Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Be%20The%20Hero&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fvitormiacri%2Fbe-the-hero%2Fmaster%2Fbackend%2FInsomnia_requests.json)
 
 ### Executar o Frontend
 
