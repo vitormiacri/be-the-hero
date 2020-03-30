@@ -74,7 +74,7 @@ $ yarn start
 
 ### Registros iniciais
 
-- O banco de dados já possui alguns registros, ulitize o código -_77c95355_- para se autenticar no sistema.
+- O banco de dados já possui alguns registros, ulitize o código _**77c95355**_ para se autenticar no sistema.
 
 ## :memo: License
 
